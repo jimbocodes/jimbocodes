@@ -20,3 +20,4 @@
 ## Key links:
 * [iNaturalist - user: proteaceaejim](https://www.inaturalist.org/people/proteaceaejim)
 * [Creatures of the Holocene: Citizen Science project focussed on ecology, evolution and biogeography of Australasian flora](http://instagram.com/creaturesoftheholocene/)
+* View my Herbarium Collections on Australasian Virtual Herbarium [here](https://avh.ala.org.au/occurrences/search?q=collector_text%3A%22Christie%2C+J.R.%22+AND+collection_uid%3Aco55) 
