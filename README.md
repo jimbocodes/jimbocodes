@@ -5,10 +5,10 @@
 * Project Officer at the National Herbarium of Victoria specialising in curation, biodiversity data management and marine algae
 
 ## Research Interests
-* Fisheries Management and Stock Assessment
-* Illegal, unreported, and unregulated (IUU) fishing
 * Ecology and Restoration of Temperate Reefs
 * Marine Benthic Flora and Host Specificity
+* Fisheries Management and Stock Assessment
+* Illegal, unreported, and unregulated (IUU) fishing
 * Gondwanan flora, biogeography and evolution
 * Taxonomy of Fishes
 * Taxonomy of Angiosperms
