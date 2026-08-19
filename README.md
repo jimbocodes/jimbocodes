@@ -12,3 +12,11 @@
 * Gondwanan flora, biogeography and evolution
 * Taxonomy of Fishes
 * Taxonomy of Angiosperms
+
+## Projects in the works:
+* Creating resources for the Marine Benthic Flora of Victoria using integrations between web design, databases and open access data platforms/APIs
+* Filling data gaps in the marine benthic flora for Victoria
+
+## Key links:
+* [iNaturalist - user: proteaceaejim](https://www.inaturalist.org/people/proteaceaejim)
+* [Creatures of the Holocene: Citizen Science project focussed on ecology, evolution and biogeography of Australasian flora](http://instagram.com/creaturesoftheholocene/)
