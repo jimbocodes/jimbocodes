@@ -7,7 +7,7 @@
 ## Research Interests
 * Fisheries Management and Stock Assessment
 * Illegal, unreported, and unregulated (IUU) fishing
-* Ecology of Temperate Reefs
+* Ecology and Restoration of Temperate Reefs
 * Marine Benthic Flora and Host Specificity
 * Gondwanan flora, biogeography and evolution
 * Taxonomy of Fishes
