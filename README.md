@@ -15,7 +15,7 @@
 
 ## Projects in the works:
 * Creating resources for the Marine Benthic Flora of Victoria using integrations between web design, databases and open access data platforms/APIs
-* Filling data gaps in the marine benthic flora for Victoria
+* Filling data gaps in the marine benthic flora for southern Australia (Victoria, Tasmania, southern NSW, South Australia)
 
 ## Key links:
 * [iNaturalist - user: proteaceaejim](https://www.inaturalist.org/people/proteaceaejim)
