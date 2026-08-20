@@ -9,7 +9,7 @@
 * Marine Benthic Flora and Host Specificity
 * Fisheries Management and Stock Assessment
 * Illegal, unreported, and unregulated (IUU) fishing
-* Gondwanan flora, biogeography and evolution
+* Gondwanan flora - biogeography and evolution
 * Taxonomy of Fishes
 * Taxonomy of Angiosperms
 
